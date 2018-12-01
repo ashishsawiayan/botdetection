@@ -1,9 +1,4 @@
-'''
-#Python3: BotsDataDownload.py
-@authors: jubin (jas1464), tushar(ta1302), balaji(bbr234).
-#project: Machine Learning: How to detect twitter bots.
-#Description: Using Twitter REST API data is downloaded, bots and nonbots are labeled and results saved into a csv.
-'''
+
 
 import tweepy
 import os,sys, csv, time
